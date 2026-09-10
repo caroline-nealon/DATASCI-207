@@ -6,6 +6,8 @@ requires-python = ">=3.13"
 dependencies = [
     "ipykernel>=7.3.0",
     "ipython>=9.16.1",
+    "keras>=3.15.1",
+    "keras-tuner>=1.4.8",
     "matplotlib>=3.11.1",
     "mlxtend>=0.25.0",
     "numpy>=2.5.2",
@@ -14,4 +16,5 @@ dependencies = [
     "seaborn>=0.13.2",
     "statsmodels>=0.15.0",
     "tensorflow>=2.21.0",
+    "tuber>=0.6.0",
 ]
